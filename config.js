@@ -6,8 +6,8 @@ import { fileURLToPath } from 'url';
 global.botnumber = '';
 global.confirmCode = '';
 global.nomebot = 'mors_bot';
-global.packname = 'murs_bot-Md';
-global.author = 'murs';
+global.packname = 'mors_bot-Md';
+global.author = 'mors';
 global.vs = '1.0';
 global.collab = 'Endy±62';
 global.wm = global.nomebot;
@@ -15,7 +15,7 @@ global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 
 global.owner = [
-  ['212642043720', 'murs', true],
+  ['212642043720', 'mors', true],
   ['6285148177865', 'endy', true], 
   ['393514960126', 'cristian', true],
   ['xxxxxxxxxx'],
