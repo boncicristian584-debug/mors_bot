@@ -10,7 +10,7 @@ global.packname = 'mors_bot-Md';
 global.author = 'mors';
 global.vs = '1.0';
 global.collab = 'Endy±62';
-global.wm = global.nomebot;
+global.wm = global.mors_lux;
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 
