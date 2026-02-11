@@ -18,7 +18,7 @@ global.owner = [
   ['212642043720', 'mors', true],
   ['6285148177865', 'endy', true], 
   ['393514960126', 'cristian', true],
-  ['xxxxxxxxxx'],
+  ['3926427789'],mors +³⁹ true 
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
 ];
